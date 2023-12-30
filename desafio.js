@@ -7,4 +7,4 @@ const distanciaKm = 100;
 const litrosConsumidos = distanciaKm / kmPorLitros;
 const gastoMedio = litrosConsumidos * precoCombustivel;
 
-console.log('O Valor Medio Gasto foi R$', gastoMedio.toFixed(2)); //toFixed é uma ondição que arredonda o numero após a virgula
+console.log('O Valor Medio Gasto foi R$', gastoMedio.toFixed(2)); //toFixed é uma condição que arredonda o numero após a virgula
